@@ -18,3 +18,5 @@
 
 [Série ES6 by Wes Bos — Como let e const - parte 3](https://medium.com/emanuelg-blog/s%C3%A9rie-es6-by-wes-bos-use-let-com-for-loops-em-javascript-891922dcea49#.htact5hw7)
 
+[O Guia do ES6: TUDO que você precisa saber](https://medium.com/@matheusml/o-guia-do-es6-tudo-que-voc%C3%AA-precisa-saber-8c287876325f)
+
